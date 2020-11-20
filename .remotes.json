@@ -8,6 +8,12 @@
   {
     "package": "ggseg",
     "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegDKT"],
+    "from": "ggsegDKT"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
     "via": ["ggsegDefaultExtra"],
     "from": "ggsegDefaultExtra"
   },
@@ -118,6 +124,12 @@
     "url": "https://github.com/LCBC-UiO/ggseg3d",
     "via": ["ggsegChen"],
     "from": "ggsegChen"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegDKT"],
+    "from": "ggsegDKT"
   },
   {
     "package": "ggseg3d",
