@@ -1,0 +1,45 @@
+[
+  {
+    "package": "ggseg",
+    "oncran": false
+  },
+  {
+    "package": "ggseg3d"
+  },
+  {
+    "package": "ggsegExtra"
+  },
+  {
+    "package": "ggsegYeo2011"
+  },
+  {
+    "package": "ggsegSchaefer"
+  },
+  {
+    "package": "ggsegGlasser"
+  },
+  {
+    "package": "ggsegDesterieux"
+  },
+  {
+    "package": "ggsegDefaultExtra"
+  },
+  {
+    "package": "ggsegChen"
+  },
+  {
+    "package": "ggsegTracula"
+  },
+  {
+    "package": "ggsegDKT"
+  },
+  {
+    "package": "ggsegJHU"
+  },
+  {
+    "package": "ggsegICBM"
+  },
+  {
+    "package": "ggsegHO"
+  }
+]
