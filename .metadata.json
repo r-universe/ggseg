@@ -5,7 +5,7 @@
   },
   {
     "package": "ggseg3d",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "ggsegExtra"
