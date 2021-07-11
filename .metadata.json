@@ -1,7 +1,10 @@
 [
   {
-    "package": "ggseg",
+    "package": "ggplot2",
     "oncran": true
+  },
+  {
+    "package": "ggseg"
   },
   {
     "package": "ggseg3d",
