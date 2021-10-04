@@ -121,8 +121,74 @@
   },
   {
     "package": "ggseg",
-    "url": "https://github.com/LCBC-UiO/ggseg",
+    "url": "https://github.com/ggseg/ggseg",
     "via": ["ggsegSchaefer"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/ggseg/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegYeo2011"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDesterieux"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegChen"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegGlasser"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegJHU"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegTracula"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegICBM"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegHO"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDefaultExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg",
+    "url": "https://github.com/LCBC-UiO/ggseg",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDKT"],
     "from": "ggsegSchaefer"
   },
   {
@@ -259,8 +325,74 @@
   },
   {
     "package": "ggseg3d",
-    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "url": "https://github.com/ggseg/ggseg3d",
     "via": ["ggsegSchaefer"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/ggseg/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegYeo2011"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDesterieux"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegChen"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegGlasser"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegJHU"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegTracula"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegICBM"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegHO"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDefaultExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggseg3d",
+    "url": "https://github.com/LCBC-UiO/ggseg3d",
+    "via": ["ggsegSchaefer", "ggsegExtra", "ggsegDKT"],
     "from": "ggsegSchaefer"
   },
   {
@@ -282,10 +414,22 @@
     "from": "ggsegExtra"
   },
   {
+    "package": "ggsegChen",
+    "url": "https://github.com/ggseg/ggsegChen",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
     "package": "ggsegDKT",
     "url": "https://github.com/ggseg/ggsegDKT",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "ggsegDKT",
+    "url": "https://github.com/ggseg/ggsegDKT",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
   },
   {
     "package": "ggsegDefaultExtra",
@@ -294,10 +438,28 @@
     "from": "ggsegExtra"
   },
   {
+    "package": "ggsegDefaultExtra",
+    "url": "https://github.com/ggseg/ggsegDefaultExtra",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
     "package": "ggsegDesterieux",
     "url": "https://github.com/ggseg/ggsegDesterieux",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "ggsegDesterieux",
+    "url": "https://github.com/ggseg/ggsegDesterieux",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
+    "package": "ggsegExtra",
+    "url": "https://github.com/ggseg/ggsegExtra",
+    "via": ["ggsegSchaefer"],
+    "from": "ggsegSchaefer"
   },
   {
     "package": "ggsegGlasser",
@@ -306,10 +468,22 @@
     "from": "ggsegExtra"
   },
   {
+    "package": "ggsegGlasser",
+    "url": "https://github.com/ggseg/ggsegGlasser",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
     "package": "ggsegHO",
     "url": "https://github.com/ggseg/ggsegHO",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "ggsegHO",
+    "url": "https://github.com/ggseg/ggsegHO",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
   },
   {
     "package": "ggsegICBM",
@@ -318,10 +492,22 @@
     "from": "ggsegExtra"
   },
   {
+    "package": "ggsegICBM",
+    "url": "https://github.com/ggseg/ggsegICBM",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
     "package": "ggsegJHU",
     "url": "https://github.com/ggseg/ggsegJHU",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "ggsegJHU",
+    "url": "https://github.com/ggseg/ggsegJHU",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
   },
   {
     "package": "ggsegSchaefer",
@@ -336,9 +522,21 @@
     "from": "ggsegExtra"
   },
   {
+    "package": "ggsegTracula",
+    "url": "https://github.com/ggseg/ggsegTracula",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
+  },
+  {
     "package": "ggsegYeo2011",
     "url": "https://github.com/ggseg/ggsegYeo2011",
     "via": ["ggsegExtra"],
     "from": "ggsegExtra"
+  },
+  {
+    "package": "ggsegYeo2011",
+    "url": "https://github.com/ggseg/ggsegYeo2011",
+    "via": ["ggsegSchaefer", "ggsegExtra"],
+    "from": "ggsegSchaefer"
   }
 ]
