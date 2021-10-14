@@ -42,5 +42,8 @@
   },
   {
     "package": "ggsegHO"
+  },
+  {
+    "package": "ggsegBrainnetome"
   }
 ]

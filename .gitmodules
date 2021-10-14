@@ -73,3 +73,8 @@
 	url = https://github.com/ggseg/ggsegHO
 	shallow = true
 	registered = true
+[submodule "ggsegBrainnetome"]
+	path = ggsegBrainnetome
+	url = https://github.com/ggseg/ggsegBrainnetome
+	shallow = true
+	registered = true
