@@ -45,5 +45,23 @@
   },
   {
     "package": "ggsegBrainnetome"
+  },
+  {
+    "package": "ggsegPower"
+  },
+  {
+    "package": "ggsegAal"
+  },
+  {
+    "package": "ggsegIca"
+  },
+  {
+    "package": "ggsegAicha"
+  },
+  {
+    "package": "ggsegGordon"
+  },
+  {
+    "package": "ggsegArslan"
   }
 ]

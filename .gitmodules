@@ -78,3 +78,33 @@
 	url = https://github.com/ggseg/ggsegBrainnetome
 	shallow = true
 	registered = true
+[submodule "ggsegPower"]
+	path = ggsegPower
+	url = https://github.com/ggseg/ggsegPower
+	shallow = true
+	registered = true
+[submodule "ggsegAal"]
+	path = ggsegAal
+	url = https://github.com/ggseg/ggsegAal
+	shallow = true
+	registered = true
+[submodule "ggsegIca"]
+	path = ggsegIca
+	url = https://github.com/ggseg/ggsegIca
+	shallow = true
+	registered = true
+[submodule "ggsegAicha"]
+	path = ggsegAicha
+	url = https://github.com/ggseg/ggsegAicha
+	shallow = true
+	registered = true
+[submodule "ggsegGordon"]
+	path = ggsegGordon
+	url = https://github.com/ggseg/ggsegGordon
+	shallow = true
+	registered = true
+[submodule "ggsegArslan"]
+	path = ggsegArslan
+	url = https://github.com/ggseg/ggsegArslan
+	shallow = true
+	registered = true
