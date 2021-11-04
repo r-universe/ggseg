@@ -108,3 +108,13 @@
 	url = https://github.com/ggseg/ggsegArslan
 	shallow = true
 	registered = true
+[submodule "ggsegBrodmann"]
+	path = ggsegBrodmann
+	url = https://github.com/ggseg/ggsegBrodmann
+	shallow = true
+	registered = true
+[submodule "ggsegCampbell"]
+	path = ggsegCampbell
+	url = https://github.com/ggseg/ggsegCampbell
+	shallow = true
+	registered = true

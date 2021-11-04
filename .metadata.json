@@ -63,5 +63,11 @@
   },
   {
     "package": "ggsegArslan"
+  },
+  {
+    "package": "ggsegBrodmann"
+  },
+  {
+    "package": "ggsegCampbell"
   }
 ]
