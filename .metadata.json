@@ -72,5 +72,11 @@
   },
   {
     "package": "ggsegKleist"
+  },
+  {
+    "package": "ggsegFlechsig"
+  },
+  {
+    "package": "ggsegEconomo"
   }
 ]

@@ -123,3 +123,13 @@
 	url = https://github.com/ggseg/ggsegKleist
 	shallow = true
 	registered = true
+[submodule "ggsegFlechsig"]
+	path = ggsegFlechsig
+	url = https://github.com/ggseg/ggsegFlechsig
+	shallow = true
+	registered = true
+[submodule "ggsegEconomo"]
+	path = ggsegEconomo
+	url = https://github.com/ggseg/ggsegEconomo
+	shallow = true
+	registered = true
