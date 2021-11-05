@@ -118,3 +118,8 @@
 	url = https://github.com/ggseg/ggsegCampbell
 	shallow = true
 	registered = true
+[submodule "ggsegKleist"]
+	path = ggsegKleist
+	url = https://github.com/ggseg/ggsegKleist
+	shallow = true
+	registered = true
