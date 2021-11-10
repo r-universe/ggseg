@@ -127,12 +127,6 @@
   },
   {
     "package": "ggseg",
-    "url": "https://github.com/ggseg/ggseg",
-    "via": ["ggsegSchaefer", "ggsegExtra"],
-    "from": "ggsegSchaefer"
-  },
-  {
-    "package": "ggseg",
     "url": "https://github.com/LCBC-UiO/ggseg",
     "via": ["ggsegSchaefer", "ggsegExtra", "ggsegYeo2011"],
     "from": "ggsegSchaefer"
@@ -327,12 +321,6 @@
     "package": "ggseg3d",
     "url": "https://github.com/ggseg/ggseg3d",
     "via": ["ggsegSchaefer"],
-    "from": "ggsegSchaefer"
-  },
-  {
-    "package": "ggseg3d",
-    "url": "https://github.com/ggseg/ggseg3d",
-    "via": ["ggsegSchaefer", "ggsegExtra"],
     "from": "ggsegSchaefer"
   },
   {
