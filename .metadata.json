@@ -83,6 +83,7 @@
     "package": "freesurfer"
   },
   {
-    "package": "neurobase"
+    "package": "neurobase",
+    "oncran": true
   }
 ]
