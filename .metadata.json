@@ -78,12 +78,5 @@
   },
   {
     "package": "ggsegEconomo"
-  },
-  {
-    "package": "freesurfer"
-  },
-  {
-    "package": "neurobase",
-    "oncran": true
   }
 ]

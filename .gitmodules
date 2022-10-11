@@ -133,13 +133,3 @@
 	url = https://github.com/ggseg/ggsegEconomo
 	shallow = true
 	registered = true
-[submodule "freesurfer"]
-	path = freesurfer
-	url = https://github.com/muschellij2/freesurfer
-	shallow = true
-	registered = true
-[submodule "neurobase"]
-	path = neurobase
-	url = https://github.com/muschellij2/neurobase
-	shallow = true
-	registered = true
