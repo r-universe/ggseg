@@ -1,140 +1,85 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ggseg/universe
-	shallow = true
 	branch = HEAD
-[submodule "ggseg"]
-	path = ggseg
-	url = https://github.com/ggseg/ggseg
-	shallow = true
-	registered = true
-[submodule "ggseg3d"]
-	path = ggseg3d
-	url = https://github.com/ggseg/ggseg3d
-	shallow = true
-	registered = true
-[submodule "ggsegExtra"]
-	path = ggsegExtra
-	url = https://github.com/ggseg/ggsegExtra
-	shallow = true
-	registered = true
-[submodule "ggsegYeo2011"]
-	path = ggsegYeo2011
-	url = https://github.com/ggseg/ggsegYeo2011
-	shallow = true
-	registered = true
-[submodule "ggsegSchaefer"]
-	path = ggsegSchaefer
-	url = https://github.com/ggseg/ggsegSchaefer
-	shallow = true
-	registered = true
-[submodule "ggsegGlasser"]
-	path = ggsegGlasser
-	url = https://github.com/ggseg/ggsegGlasser
-	shallow = true
-	registered = true
-[submodule "ggsegDesterieux"]
-	path = ggsegDesterieux
-	url = https://github.com/ggseg/ggsegDesterieux
-	shallow = true
-	registered = true
-[submodule "ggsegDefaultExtra"]
-	path = ggsegDefaultExtra
-	url = https://github.com/ggseg/ggsegDefaultExtra
-	shallow = true
-	registered = true
-[submodule "ggsegChen"]
-	path = ggsegChen
-	url = https://github.com/ggseg/ggsegChen
-	shallow = true
-	registered = true
-[submodule "ggsegTracula"]
-	path = ggsegTracula
-	url = https://github.com/ggseg/ggsegTracula
-	shallow = true
-	registered = true
-[submodule "ggsegDKT"]
-	path = ggsegDKT
-	url = https://github.com/ggseg/ggsegDKT
-	shallow = true
-	registered = true
-[submodule "ggsegJHU"]
-	path = ggsegJHU
-	url = https://github.com/ggseg/ggsegJHU
-	shallow = true
-	registered = true
-[submodule "ggsegICBM"]
-	path = ggsegICBM
-	url = https://github.com/ggseg/ggsegICBM
-	shallow = true
-	registered = true
-[submodule "ggsegHO"]
-	path = ggsegHO
-	url = https://github.com/ggseg/ggsegHO
-	shallow = true
-	registered = true
-[submodule "ggsegBrainnetome"]
-	path = ggsegBrainnetome
-	url = https://github.com/ggseg/ggsegBrainnetome
-	shallow = true
-	registered = true
-[submodule "ggsegPower"]
-	path = ggsegPower
-	url = https://github.com/ggseg/ggsegPower
-	shallow = true
-	registered = true
-[submodule "ggsegAal"]
-	path = ggsegAal
-	url = https://github.com/ggseg/ggsegAal
-	shallow = true
-	registered = true
-[submodule "ggsegIca"]
-	path = ggsegIca
-	url = https://github.com/ggseg/ggsegIca
-	shallow = true
-	registered = true
-[submodule "ggsegAicha"]
-	path = ggsegAicha
-	url = https://github.com/ggseg/ggsegAicha
-	shallow = true
-	registered = true
-[submodule "ggsegGordon"]
-	path = ggsegGordon
-	url = https://github.com/ggseg/ggsegGordon
-	shallow = true
-	registered = true
-[submodule "ggsegArslan"]
-	path = ggsegArslan
-	url = https://github.com/ggseg/ggsegArslan
-	shallow = true
-	registered = true
-[submodule "ggsegBrodmann"]
-	path = ggsegBrodmann
-	url = https://github.com/ggseg/ggsegBrodmann
-	shallow = true
-	registered = true
-[submodule "ggsegCampbell"]
-	path = ggsegCampbell
-	url = https://github.com/ggseg/ggsegCampbell
-	shallow = true
-	registered = true
-[submodule "ggsegKleist"]
-	path = ggsegKleist
-	url = https://github.com/ggseg/ggsegKleist
-	shallow = true
-	registered = true
-[submodule "ggsegFlechsig"]
-	path = ggsegFlechsig
-	url = https://github.com/ggseg/ggsegFlechsig
-	shallow = true
-	registered = true
-[submodule "ggsegEconomo"]
-	path = ggsegEconomo
-	url = https://github.com/ggseg/ggsegEconomo
-	shallow = true
-	registered = true
 [submodule "freesurfer"]
 	path = freesurfer
 	url = https://github.com/muschellij2/freesurfer
-	shallow = true
-	registered = true
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/ggseg/ggseg
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/ggseg/ggseg3d
+[submodule "ggsegAal"]
+	path = ggsegAal
+	url = https://github.com/ggseg/ggsegAal
+[submodule "ggsegAicha"]
+	path = ggsegAicha
+	url = https://github.com/ggseg/ggsegAicha
+[submodule "ggsegArslan"]
+	path = ggsegArslan
+	url = https://github.com/ggseg/ggsegArslan
+[submodule "ggsegBrainnetome"]
+	path = ggsegBrainnetome
+	url = https://github.com/ggseg/ggsegBrainnetome
+[submodule "ggsegBrodmann"]
+	path = ggsegBrodmann
+	url = https://github.com/ggseg/ggsegBrodmann
+[submodule "ggsegCampbell"]
+	path = ggsegCampbell
+	url = https://github.com/ggseg/ggsegCampbell
+[submodule "ggsegChen"]
+	path = ggsegChen
+	url = https://github.com/ggseg/ggsegChen
+[submodule "ggsegDKT"]
+	path = ggsegDKT
+	url = https://github.com/ggseg/ggsegDKT
+[submodule "ggsegDefaultExtra"]
+	path = ggsegDefaultExtra
+	url = https://github.com/ggseg/ggsegDefaultExtra
+[submodule "ggsegDesterieux"]
+	path = ggsegDesterieux
+	url = https://github.com/ggseg/ggsegDesterieux
+[submodule "ggsegEconomo"]
+	path = ggsegEconomo
+	url = https://github.com/ggseg/ggsegEconomo
+[submodule "ggsegExtra"]
+	path = ggsegExtra
+	url = https://github.com/ggseg/ggsegExtra
+[submodule "ggsegFlechsig"]
+	path = ggsegFlechsig
+	url = https://github.com/ggseg/ggsegFlechsig
+[submodule "ggsegGlasser"]
+	path = ggsegGlasser
+	url = https://github.com/ggseg/ggsegGlasser
+[submodule "ggsegGordon"]
+	path = ggsegGordon
+	url = https://github.com/ggseg/ggsegGordon
+[submodule "ggsegHO"]
+	path = ggsegHO
+	url = https://github.com/ggseg/ggsegHO
+[submodule "ggsegICBM"]
+	path = ggsegICBM
+	url = https://github.com/ggseg/ggsegICBM
+[submodule "ggsegIca"]
+	path = ggsegIca
+	url = https://github.com/ggseg/ggsegIca
+[submodule "ggsegJHU"]
+	path = ggsegJHU
+	url = https://github.com/ggseg/ggsegJHU
+[submodule "ggsegKleist"]
+	path = ggsegKleist
+	url = https://github.com/ggseg/ggsegKleist
+[submodule "ggsegPower"]
+	path = ggsegPower
+	url = https://github.com/ggseg/ggsegPower
+[submodule "ggsegSchaefer"]
+	path = ggsegSchaefer
+	url = https://github.com/ggseg/ggsegSchaefer
+[submodule "ggsegTracula"]
+	path = ggsegTracula
+	url = https://github.com/ggseg/ggsegTracula
+[submodule "ggsegYeo2011"]
+	path = ggsegYeo2011
+	url = https://github.com/ggseg/ggsegYeo2011
