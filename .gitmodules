@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/ggseg/universe
+	url = https://github.com/ggseg/ggseg.r-universe.dev
 	branch = HEAD
 [submodule "freesurfer"]
 	path = freesurfer
