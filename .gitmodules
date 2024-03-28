@@ -83,6 +83,6 @@
 [submodule "ggsegYeo2011"]
 	path = ggsegYeo2011
 	url = https://github.com/ggseg/ggsegYeo2011
-[submodule "rgal"]
-	path = rgal
+[submodule "rgdal"]
+	path = rgdal
 	url = https://github.com/cran/rgdal
