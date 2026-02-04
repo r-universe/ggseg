@@ -4,10 +4,14 @@
 	branch = HEAD
 [submodule "freesurfer"]
 	path = freesurfer
-	url = https://github.com/muschellij2/freesurfer
+	url = https://github.com/drmowinckels/freesurfer
+	branch = refactor
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/ggseg/ggseg
+[submodule "ggseg.formats"]
+	path = ggseg.formats
+	url = https://github.com/ggseg/ggseg.formats
 [submodule "ggseg3d"]
 	path = ggseg3d
 	url = https://github.com/ggseg/ggseg3d
@@ -83,6 +87,3 @@
 [submodule "ggsegYeo2011"]
 	path = ggsegYeo2011
 	url = https://github.com/ggseg/ggsegYeo2011
-[submodule "rgdal"]
-	path = rgdal
-	url = https://github.com/cran/rgdal
